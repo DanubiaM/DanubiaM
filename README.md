@@ -6,7 +6,8 @@
 ## I'm Danubia Macedo 👋! About me:
 
 
-- :books: Graduate student in Computer Engineering .
+- :books: Graduating in Computer Engineering.
+- :microscope: Member of Laboratório de Pesquisas Especiais (LAPES) in IFMT.
 - 🌱 I’m currently learning Web development. 
 - :bulb:Interested in: JavaScript, C, Python.
 - ⚡ Fact: focused.
