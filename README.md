@@ -7,9 +7,9 @@
 
 
 - :books: Graduating in Computer Engineering.
-- :microscope: Member of Laboratório de Pesquisas Especiais (LAPES) in IFMT.
-- 🌱 I’m currently learning Web Development with Spring. 
-- :bulb:Interested in: Python, Java, C and Cluster Computing.
+- :computer: Software Developer in Yokoyama Automação.
+- 🌱 I’m currently learning about software architecture. 
+- :bulb: Interested in: Java, Software Archtecture and Team Manager.
 - ⚡ Fact: focused.
 <!--
 **DanubiaM/DanubiaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
