@@ -6,7 +6,7 @@
 ## I'm Danubia Macedo 👋! About me:
 
 
-- :books: Graduating in Computer Engineering.
+- :books: Degree in Computer Engineering.
 - :computer: Software Developer in Yokoyama Automação.
 - 🌱 I’m currently learning about software architecture. 
 - :bulb: Interested in: Java, Software Archtecture and Team Manager.
