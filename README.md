@@ -7,7 +7,7 @@
 
 
 - :books: Degree in Computer Engineering.
-- :computer: Software Developer in Yokoyama Automação.
+- :computer: Backend Developer in Invillia.
 - 🌱 I’m currently learning about software architecture. 
 - :bulb: Interested in: Java, Software Archtecture and Team Manager.
 - ⚡ Fact: focused.
