@@ -7,9 +7,9 @@
 
 
 - :books: Degree in Computer Engineering.
-- :computer: Backend Developer in Invillia.
+- :computer: Backend Developer in CI&T.
 - 🌱 I’m currently learning about software architecture. 
-- :bulb: Interested in: Java, Software Archtecture and Team Manager.
+- :bulb: Interested in: Java and Software Archtecture.
 - ⚡ Fact: focused.
 <!--
 **DanubiaM/DanubiaM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
